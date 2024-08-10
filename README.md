@@ -20,3 +20,13 @@ docker-compose up-d
 ##stack usado 
 *mongodb
 *nest
+
+clobar archivo __env.template__
+llenar las variables de entorno por definir
+ejecutar app dev
+yarn start:dev
+
+
+http://localhost:3000/api/v2/seed
+
+

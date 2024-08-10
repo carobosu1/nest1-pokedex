@@ -4,6 +4,7 @@
 /build
 /mongo
 /src/mongoxxxxx
+.env
 
 
 # Logs

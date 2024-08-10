@@ -15,3 +15,93 @@ services:
 
         cosas
         //http://localhost:3000/api/v2/pokemon
+
+
+
+
+[
+    {
+        "_id": "66b0408f00552d8089b1bb8f",
+        "name": "bulbaq",
+        "no": 1111,
+        "__v": 0,
+        "num": 2
+    },
+    {
+        "_id": "66b04b1e083c104191138a82",
+        "name": "xxx3",
+        "num": 4,
+        "__v": 0,
+        "no": 22222
+    },
+    {
+        "_id": "66b4306d98c8820b50b0076b",
+        "name": "venusaur1",
+        "no": 333,
+        "__v": 0,
+        "num": 111
+    },
+    {
+        "_id": "66b4312f00881da86389d4c6",
+        "name": "charmander1",
+        "no": 2222,
+        "__v": 0,
+        "num": 222
+    },
+    {
+        "_id": "66b431bc44f8cf3f582ec27c",
+        "name": "venusaur2",
+        "no": 5555,
+        "__v": 0,
+        "num": 2222
+    },
+    {
+        "_id": "66b43238739309a2b72d7852",
+        "name": "charmander3",
+        "no": 4444,
+        "__v": 0,
+        "num": 4444
+    },
+    {
+        "_id": "66b4327926e0af5f712ce166",
+        "name": "caro1",
+        "no": 6666,
+        "__v": 0,
+        "num": 6666
+    },
+    {
+        "_id": "66b4328d26e0af5f712ce170",
+        "name": "yo2",
+        "no": 7777,
+        "__v": 0,
+        "num": 7777
+    },
+    {
+        "_id": "66b4343ac83b83ab072acb3b",
+        "name": "charmander444",
+        "no": 9999,
+        "__v": 0,
+        "num": 9999
+    },
+    {
+        "_id": "66b434f354fc070f193efa77",
+        "name": "bulbasaur222",
+        "no": 56781,
+        "__v": 0,
+        "num": 3456
+    },
+    {
+        "_id": "66b4376343922cfc4cc03e72",
+        "name": "bulbasaur333",
+        "no": 12345,
+        "__v": 0,
+        "num": 12345
+    },
+    {
+        "_id": "66b774394912be7d4cafdfb6",
+        "name": "bulbasaur678",
+        "no": 1,
+        "__v": 0,
+        "num": 678
+    }
+]
